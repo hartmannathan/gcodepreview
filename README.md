@@ -11,7 +11,7 @@
 
  Updated to make use of Python in OpenSCAD:[^rapcad]
 
- [^rapcad:] Previous versions had used RapCAD, so as to take advantage of the writeln
+ [^rapcad]: Previous versions had used RapCAD, so as to take advantage of the writeln
  command, which has since been re-written in Python.
 
  https://pythonscad.org/ (previously this was http://www.guenther-sohler.net/openscad/ )
@@ -46,7 +46,7 @@
 
  Place the files in C:\Users\\\~\Documents\OpenSCAD\libraries and call as:[^libraries]
 
- [^libraries:] C:\Users\\\~\Documents\RapCAD\libraries is deprecated since RapCAD is no longer
+ [^libraries]: C:\Users\\\~\Documents\RapCAD\libraries is deprecated since RapCAD is no longer
  needed since Python is now used for writing out files)
 
      use <gcodepreview.py>;
